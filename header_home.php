@@ -35,10 +35,10 @@
     <main>
         <div class="znav-container znav-white znav-freya znav-fixed" id="znav-container">
             <div class="container">
-                <nav class="navbar navbar-expand-lg"><a class="navbar-brand overflow-hidden pr-3" href="index.html">
+                <nav class="navbar navbar-expand-lg"><a class="navbar-brand overflow-hidden pr-3" href="index.php">
                         <div class="background-1 radius-br-0 radius-secondary lh-1 color-white fs-0"
                             style="padding: 7px 10px 7px 13px;">Dechogar</div><!-- Incase you are using image-->
-                        <!-- <img src="assets/images/logo-freya.png" alt="Freya" width="70"/>-->
+                        <!-- <img src="assets/images/logo-freya.png" alt="Freya" width="70"/> -->
                     </a><button class="navbar-toggler" type="button" data-toggle="collapse"
                         data-target="#navbarNavDropdown" aria-controls="navbarNavDropdown" aria-expanded="false"
                         aria-label="Toggle navigation">
