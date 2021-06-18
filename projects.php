@@ -26,25 +26,14 @@
                         <div class="border-bottom border-color-9 pb-6 mb-6">
                             <div class="row justify-content-center">
                                 <div class="col-lg-4">
-                                    <h3><a href="project.html"><span class="d-inline-block">Inspiration: Go
-                                                green</span></a></h3>
-                                    <p>Brooklyn, USA</p>
+                                    <h3><a href="#"><span class="d-inline-block">Creamos el espacio ideal para tu confort</span></a></h3>
+                                    <p>Perú</p>
                                 </div>
-                                <div class="col text-justify"><a href="project.html"><img
+                                <div class="col text-justify"><a href="#"><img
                                             src="assets/images/contacts_header.jpg" alt=""></a>
-                                    <p class="mt-4">Maecenas sed diam eget risus varius blandit sit amet non magna.
-                                        Donec id elit non mi porta gravida at eget metus. Aenean lacinia bibendum nulla
-                                        sed consectetur.</p>
-                                    <p>Nam vel orci in lacus aliquet viverra et a justo. Fusce gravida felis eu leo
-                                        fringilla dapibus. Vivamus molestie dictum aliquet. Nunc nec nisl nulla. Integer
-                                        gravida quam et sem egestas, nec dictum enim interdum. Suspendisse volutpat diam
-                                        urna, et imperdiet lectus pharetra sit amet. Nunc sed ex et neque vulputate
-                                        dignissim. Nullam a tempus lacus, ac pulvinar mauris. Lorem ipsum dolor sit
-                                        amet, consectetur adipiscing elit. Cras facilisis eget erat a molestie.
-                                        Suspendisse sed scelerisque lectus, eget ornare elit. Donec non lectus non enim
-                                        fermentum dapibus vel sit amet dolor. Praesent a vestibulum massa. <a
-                                            class="color-info" href="project.html">Continue reading <span
-                                                class="d-inline-block">&xrarr;</span></a></p>
+                                    <p class="mt-4">  Gracias a Dios, porque nos da la oportunidad de conocer a familias tan maravillosas con sueños  he ideas fantásticas para sus hogares.</p>
+                                    <p class="mt-4"> 
+ Estamos totalmente a disposición para hacer de tu Hogar, el espacio más acogedor y   transformarlo en lo que tanto soñaste </p>
                                 </div>
                             </div>
                         </div>
@@ -55,24 +44,13 @@
                         <div class="border-bottom border-color-9 pb-6 mb-6">
                             <div class="row justify-content-center">
                                 <div class="col-lg-4">
-                                    <h3><a href="project.html"><span class="d-inline-block">Warmer look of a coffee
-                                                shop</span></a></h3>
-                                    <p>Wyoming, USA</p>
+                                    <h3><a href="#"><span class="d-inline-block">Remodelacíon  de sala y comedor</span></a></h3>
+                                    <p>Perú</p>
                                 </div>
-                                <div class="col text-justify"><a class="row" href="project.html">
-                                        <div class="col-lg-6 mb-4"><img class="w-100" src="assets/images/img_4.jpg"
-                                                alt=""></div>
-                                        <div class="col-lg-6 mb-4"><img class="w-100" src="assets/images/img_5.jpg"
-                                                alt=""></div>
-                                    </a>
-                                    <p class="mb-0">In quis porttitor orci, vitae rhoncus nunc. Vivamus tincidunt ac
-                                        purus at efficitur. Donec sed faucibus sem, nec pharetra ipsum. Pellentesque
-                                        habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas.
-                                        Ut sodales sollicitudin ante ac molestie. Aliquam scelerisque metus in ultricies
-                                        venenatis. Duis in nisi felis. Donec a nibh blandit, semper eros hendrerit,
-                                        vestibulum ex. Pellentesque tincidunt purus lacus, quis luctus velit auctor
-                                        quis. <a class="color-info" href="project.html">Continue reading <span
-                                                class="d-inline-block">&xrarr;</span></a></p>
+                                <div class="col text-justify">
+                                        <div class="col-lg-6 mb-4"> <video class="w-100" style="width: 215% !important;" src="./img/videosDechogar.mp4" autoplay="true" controls></video></div>
+                                    
+                                    <p class="mb-0">Remodelacíon  de sala y comedor de un departamento en en distrito de Jesús María, en la ciudad de Lima, tomando en cuenta  detallles que convierten nuestros espacios en lugares únicos, modernos y elegantes. </p>
                                 </div>
                             </div>
                         </div>
@@ -83,51 +61,19 @@
                         <div class="border-bottom border-color-9 pb-6 mb-6">
                             <div class="row justify-content-center">
                                 <div class="col-lg-4">
-                                    <h3><a href="project.html"><span class="d-inline-block">Renovation on
-                                                going</span></a></h3>
-                                    <p>Alberta, Canada</p>
+                                    <h3>CÁLIDO Y ELEGANTE</h3>
+                                    <p>Perú</p>
                                 </div>
-                                <div class="col text-justify"><a href="project.html"><img
+                                <div class="col text-justify"><a href="#"><img
                                             src="assets/images/about_header.jpg" alt=""></a>
-                                    <p class="mt-4 mb-0">Proin et neque in diam auctor facilisis a ut risus. Etiam
-                                        eleifend mi ex. Praesent ac ullamcorper urna, nec placerat arcu. Nunc placerat
-                                        aliquam congue. Aenean at urna ac ipsum semper luctus. Aenean a sem nibh.
-                                        Maecenas velit ex, feugiat eget neque non, semper condimentum nisl. Donec
-                                        convallis venenatis quam sed placerat. <a class="color-info"
-                                            href="project.html">Continue reading <span
-                                                class="d-inline-block">&xrarr;</span></a></p>
+                                    <p class="mt-4 mb-0">Gracias por confiar en nosotros y permitirnos ser parte de esta linda experiencia.</p>
                                 </div>
                             </div>
                         </div>
                     </div>
                 </div>
-                <div class="row justify-content-center">
-                    <div class="col-lg-11">
-                        <div class="border-bottom border-color-9 pb-6 mb-6">
-                            <div class="row justify-content-center">
-                                <div class="col-lg-4">
-                                    <h3><a href="project.html"><span class="d-inline-block">Living Luxuriously
-                                            </span></a></h3>
-                                    <p>Bloemfontein, South Africa</p>
-                                </div>
-                                <div class="col text-justify"><a href="project.html"><img class="w-100"
-                                            src="assets/images/img_10.jpg" alt=""></a>
-                                    <p class="mt-4 mb-0">Suspendisse rutrum lacinia orci, at fermentum dolor. Donec odio
-                                        sem, pulvinar at ornare a, feugiat et justo. In eget convallis urna. Nulla ac
-                                        nunc id tellus aliquet convallis eu a dui. Donec pellentesque vehicula elit in
-                                        eleifend. Duis ut faucibus arcu. Curabitur tincidunt risus id luctus tincidunt.
-                                        Integer ac consectetur magna. Etiam at est et sapien aliquam volutpat. In tempor
-                                        lacus ut placerat gravida. Fusce ultrices et odio mattis imperdiet. Proin
-                                        eleifend diam a pharetra consequat. Ut varius efficitur ante vel viverra. Nunc
-                                        cursus ligula felis, sed lobortis velit ultrices. <a class="color-info"
-                                            href="project.html">Continue reading <span
-                                                class="d-inline-block">&xrarr;</span></a></p>
-                                </div>
-                            </div>
-                        </div>
-                    </div>
-                </div>
-                <div class="row justify-content-center text-center">
+                
+                <!-- <div class="row justify-content-center text-center">
                     <div class="col-lg-auto">
                         <nav>
                             <ul class="pagination">
@@ -141,7 +87,7 @@
                             </ul>
                         </nav>
                     </div>
-                </div>
+                </div> -->
                 <!--/.row-->
             </div>
             <!--/.container-->
